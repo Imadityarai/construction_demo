@@ -40,7 +40,7 @@ export function Navigation() {
             V
           </div>
           <span className="text-xl font-black tracking-tighter uppercase text-brand-900">
-            Nirmaan<span className="text-brand-accent underline decoration-2 underline-offset-4">VNS</span>
+            Savitri<span className="text-brand-accent underline decoration-2 underline-offset-4">VNS</span>
           </span>
         </NavLink>
 
